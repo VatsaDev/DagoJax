@@ -8,7 +8,7 @@ Making a full process from data collection to GRPO for a decent Mini model
 
 Features/roadmap:
 
- - [ ] Full JAX rewrite
+ - [x] Full JAX rewrite (trying torchXLA, but Jax rewrite up at https://github.com/VatsaDev/DagoJax)
  - [ ] Webscraping, HF downloads, Annas Archive, etc to text files in a folder
  - [ ] Multiple tokenizers, chars, BPE
  - [x] Sharded Data loader, txt files to config sizeable bin shards
